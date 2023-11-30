@@ -1,0 +1,14 @@
+D:\codes\asd\ConsoleLab7\TaskScheduler\bin\Debug\net8.0\TaskScheduler.exe
+D:\codes\asd\ConsoleLab7\TaskScheduler\bin\Debug\net8.0\TaskScheduler.deps.json
+D:\codes\asd\ConsoleLab7\TaskScheduler\bin\Debug\net8.0\TaskScheduler.runtimeconfig.json
+D:\codes\asd\ConsoleLab7\TaskScheduler\bin\Debug\net8.0\TaskScheduler.dll
+D:\codes\asd\ConsoleLab7\TaskScheduler\bin\Debug\net8.0\TaskScheduler.pdb
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfoInputs.cache
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfo.cs
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\TaskScheduler.csproj.CoreCompileInputs.cache
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\TaskScheduler.dll
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\refint\TaskScheduler.dll
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\TaskScheduler.pdb
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\TaskScheduler.genruntimeconfig.cache
+D:\codes\asd\ConsoleLab7\TaskScheduler\obj\Debug\net8.0\ref\TaskScheduler.dll
